@@ -1,7 +1,7 @@
+NQueens With Pawns Problem
 ================================================================
-NQueens with pawns Problem
 Wen Hsiang Shaw ws2367@columbia.edu
-================================================================
+
 Language: 
 X10 http://x10lang.org/, developed by IBM
 It is very similar to Java(Java backend), except the val, which is just a constant variable
